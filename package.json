@@ -163,6 +163,10 @@
         "^3.0.7-beta.1": {
           "version": "^3.0.7-beta.1",
           "reason": "see https://github.com/antvis/g6/issues/839"
+        },
+        "^3.4.4": {
+          "version": "^3.4.4",
+          "reson": "see "
         }
       },
       "cgbi-to-png": {
